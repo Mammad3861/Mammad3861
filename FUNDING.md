@@ -1,3 +1,7 @@
+---
+title: Support My Open-Source Work
+permalink: /funding/
+---
 <div align="center">
 
 # Support My Open-Source Work
