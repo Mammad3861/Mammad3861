@@ -104,3 +104,9 @@ A lightweight link-shortening project created as a simple web development experi
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Mammad3861-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/Mammad3861)
+
+---
+
+## 💖 Support My Open-Source Work
+
+If you find my projects useful, you can [support their continued development](./FUNDING.md).
