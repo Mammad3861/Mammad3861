@@ -23,9 +23,11 @@ A native Windows SVG/XML editor with live preview and visual editing capabilitie
 Built to make SVG workflows easier with a secure and practical desktop experience.
 
 **Tech:**
+
 `C#` · `.NET 10` · `WPF` · `WebView2` · `AvalonEdit`
 
 Highlights:
+
 - Real-time SVG preview
 - Visual editing workflow
 - XML-aware processing
@@ -33,8 +35,8 @@ Highlights:
 - Automated testing and CI
 
 Repository:
-https://github.com/Mammad3861/svg-live-editor
 
+[SvgLiveEditor](https://github.com/Mammad3861/svg-live-editor)
 
 ---
 
@@ -45,6 +47,7 @@ An offline-first mobile application designed for school health workflows.
 The goal is to simplify student measurements, BMI calculation, growth evaluation, and health reporting.
 
 Features:
+
 - WHO 2007 BMI-for-age evaluation
 - Age and gender based calculation
 - Student records
@@ -52,11 +55,12 @@ Features:
 - Reporting workflow
 
 **Tech:**
+
 `Flutter` · `Dart` · `SQLite`
 
-Status:
-Active Development
+**Status:**
 
+Active Development
 
 ---
 
@@ -67,17 +71,19 @@ A browser extension that improves mixed RTL/LTR text rendering in AI chat interf
 Designed for Persian and Arabic users working with English technical content.
 
 Features:
+
 - RTL/LTR direction handling
 - Better mixed language readability
 - Technical text preservation
 - AI chat interface improvements
 
 **Tech:**
+
 `TypeScript` · `Chrome Extension` · `Manifest V3`
 
 Repository:
-https://github.com/Mammad3861/ai-bidi-fix
 
+[BidiFix AI](https://github.com/Mammad3861/ai-bidi-fix)
 
 ---
 
@@ -86,6 +92,7 @@ https://github.com/Mammad3861/ai-bidi-fix
 A Docker-based Telegram automation bot for browser interaction.
 
 Features:
+
 - Web page fetching
 - Screenshots
 - PDF generation
@@ -95,11 +102,12 @@ Features:
 - Access control
 
 **Tech:**
+
 `Python` · `FastAPI` · `aiogram` · `Playwright` · `Docker`
 
 Repository:
-https://github.com/Mammad3861/Telegram-Browser-Bot
 
+[Telegram Browser Bot](https://github.com/Mammad3861/Telegram-Browser-Bot)
 
 ---
 
@@ -108,16 +116,18 @@ https://github.com/Mammad3861/Telegram-Browser-Bot
 A browser extension for estimating NAV and P/NAV values of Iranian investment companies.
 
 Features:
+
 - Local calculations
 - Persian RTL interface
 - TSETMC/Codal workflow support
 
 **Tech:**
+
 `TypeScript` · `Vite` · `Chrome Extension`
 
 Repository:
-https://github.com/Mammad3861/iran-bourse-nav-extension
 
+[Iran Bourse NAV Extension](https://github.com/Mammad3861/iran-bourse-nav-extension)
 
 ---
 
@@ -126,6 +136,7 @@ https://github.com/Mammad3861/iran-bourse-nav-extension
 A Bash-based deployment tool for quickly installing browser environments on Linux servers.
 
 Supports:
+
 - Chromium/Firefox containers
 - Automated installation
 - ARM64 and AMD64 systems
@@ -138,25 +149,14 @@ Supports:
 
 ## 🛠️ Technologies
 
-### Languages
-
-`C#` · `Python` · `TypeScript` · `Dart` · `Shell`
-
-### Frameworks & Platforms
-
-`.NET` · `WPF` · `Flutter` · `FastAPI` · `Chrome Extensions`
-
-### Infrastructure
-
-`Linux` · `Docker` · `Nginx` · `Git` · `CI/CD`
-
-### Engineering
-
-- Software architecture
-- Automated testing
-- Secure application design
-- Developer tooling
-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -169,17 +169,13 @@ Supports:
 - Linux server administration
 - Testing strategies and CI/CD
 
-
 ---
 
 ## 📫 Contact
 
-Telegram:
-https://t.me/Mammad3861
+[![Telegram](https://img.shields.io/badge/Telegram-@Mammad3861-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mammad3861)
 
-GitHub:
-https://github.com/Mammad3861
-
+[![GitHub](https://img.shields.io/badge/GitHub-Mammad3861-181717?style=for-the-badge&logo=github)](https://github.com/Mammad3861)
 
 ---
 
