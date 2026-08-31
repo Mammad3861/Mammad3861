@@ -175,7 +175,6 @@ Supports:
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Mammad3861-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mammad3861)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mammad3861-181717?style=for-the-badge&logo=github)](https://github.com/Mammad3861)
 
 ---
 
