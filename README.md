@@ -1,112 +1,192 @@
-# Hi there 👋, I'm Mohammad — Mammad
+# Hi, I'm Mohammad 👋
 
-I'm a software developer interested in **backend development, Linux systems, automation, desktop applications, and practical developer tools**.
+I'm a software developer focused on building practical tools and applications.
 
-I enjoy building projects that solve real problems — from Linux deployment and browser automation to Windows desktop tools and browser extensions.
+I enjoy turning ideas into real products — from desktop applications and browser extensions to automation systems and backend services.
 
-## About Me
+My main interests:
 
-* Building practical tools with **Python, C#/.NET, TypeScript, and Shell**
-* Working with **Linux servers, Docker, networking, and automation**
-* Exploring backend architecture and secure application design
-* Learning by building, testing, deploying, and improving real projects
-* Interested in open-source software and developer tooling
-
-## Featured Projects
-
-### [SvgLiveEditor](https://github.com/Mammad3861/svg-live-editor)
-
-A secure live **SVG/XML editor for Windows** with real-time preview and visual editing capabilities.
-
-Built as a native desktop application using WPF, AvalonEdit, and WebView2.
-
-**Tech:** C# · .NET · WPF · WebView2 · AvalonEdit
-**Status:** Active Development · v0.10.0
+- Desktop software development
+- Backend architecture
+- Developer tools
+- Automation workflows
+- Linux infrastructure
 
 ---
 
-### [Telegram Browser Bot](https://github.com/Mammad3861/Telegram-Browser-Bot)
+## 🚀 Featured Projects
 
-A Docker-first Telegram bot for remotely browsing and interacting with web content.
+### 🖥️ SvgLiveEditor
 
-Supports page fetching, web search, link extraction, screenshots, PDFs, HTML exports, downloads, persistent sessions, access control, and browser automation.
+A native Windows SVG/XML editor with live preview and visual editing capabilities.
 
-**Tech:** Python · FastAPI · aiogram · Playwright · Docker
-**Status:** Alpha · Preparing for Beta
+Built to make SVG workflows easier with a secure and practical desktop experience.
 
----
+**Tech:**
+`C#` · `.NET 10` · `WPF` · `WebView2` · `AvalonEdit`
 
-### [BidiFix AI](https://github.com/Mammad3861/ai-bidi-fix)
+Highlights:
+- Real-time SVG preview
+- Visual editing workflow
+- XML-aware processing
+- Desktop-first architecture
+- Automated testing and CI
 
-A lightweight Chrome extension that improves mixed **Persian/Arabic RTL and English LTR** rendering in AI chat interfaces such as ChatGPT and Claude.
+Repository:
+https://github.com/Mammad3861/svg-live-editor
 
-It fixes direction and visual ordering without modifying the underlying text.
-
-**Tech:** TypeScript · Chrome Extension · Manifest V3
-**Status:** MVP
-
----
-
-### [Iran Bourse NAV Extension](https://github.com/Mammad3861/iran-bourse-nav-extension)
-
-A Chrome extension for estimating **NAV and P/NAV** of Iranian investment and holding companies listed on TSETMC.
-
-Includes a Persian RTL interface, local calculations, semi-manual NAV workflow, and experimental TSETMC/Codal integration.
-
-**Tech:** TypeScript · Vite · Chrome Extension · Manifest V3
-**Status:** Alpha
 
 ---
 
-### [Instant Linux Browser](https://github.com/Mammad3861/Instant-Linux-Browser)
+### 📱 BMI Professional
 
-A Bash-based installer for quickly deploying web-accessible Chromium and Firefox containers on Linux servers.
+An offline-first mobile application designed for school health workflows.
 
-Supports interactive and automated installation workflows on both AMD64 and ARM64 systems.
+The goal is to simplify student measurements, BMI calculation, growth evaluation, and health reporting.
 
-**Tech:** Bash · Linux · Docker
+Features:
+- WHO 2007 BMI-for-age evaluation
+- Age and gender based calculation
+- Student records
+- Offline data storage
+- Reporting workflow
 
----
+**Tech:**
+`Flutter` · `Dart` · `SQLite`
 
-### [Instant Link Shortener](https://github.com/Mammad3861/Instant-Link-Shortener)
+Status:
+Active Development
 
-A lightweight link-shortening project created as a simple web development experiment.
-
-**Tech:** HTML
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mammad3861&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mammad3861&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-## Currently Learning & Improving
-
-* Backend development and application architecture
-* C# and modern .NET development
-* Python automation and services
-* Linux server administration
-* Docker-based deployment
-* Testing, CI/CD, and secure software design
-
-## Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Mammad3861-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/Mammad3861)
 
 ---
 
-## 💖 Support My Open-Source Work
+### 🌐 BidiFix AI
 
-If you find my projects useful, you can [support their continued development](./FUNDING.md).
+A browser extension that improves mixed RTL/LTR text rendering in AI chat interfaces.
+
+Designed for Persian and Arabic users working with English technical content.
+
+Features:
+- RTL/LTR direction handling
+- Better mixed language readability
+- Technical text preservation
+- AI chat interface improvements
+
+**Tech:**
+`TypeScript` · `Chrome Extension` · `Manifest V3`
+
+Repository:
+https://github.com/Mammad3861/ai-bidi-fix
+
+
+---
+
+### 🤖 Telegram Browser Bot
+
+A Docker-based Telegram automation bot for browser interaction.
+
+Features:
+- Web page fetching
+- Screenshots
+- PDF generation
+- HTML extraction
+- Browser automation
+- Persistent sessions
+- Access control
+
+**Tech:**
+`Python` · `FastAPI` · `aiogram` · `Playwright` · `Docker`
+
+Repository:
+https://github.com/Mammad3861/Telegram-Browser-Bot
+
+
+---
+
+### 📊 Iran Bourse NAV Extension
+
+A browser extension for estimating NAV and P/NAV values of Iranian investment companies.
+
+Features:
+- Local calculations
+- Persian RTL interface
+- TSETMC/Codal workflow support
+
+**Tech:**
+`TypeScript` · `Vite` · `Chrome Extension`
+
+Repository:
+https://github.com/Mammad3861/iran-bourse-nav-extension
+
+
+---
+
+### 🐧 Instant Linux Browser
+
+A Bash-based deployment tool for quickly installing browser environments on Linux servers.
+
+Supports:
+- Chromium/Firefox containers
+- Automated installation
+- ARM64 and AMD64 systems
+
+**Tech:**
+
+`Bash` · `Linux` · `Docker`
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+
+`C#` · `Python` · `TypeScript` · `Dart` · `Shell`
+
+### Frameworks & Platforms
+
+`.NET` · `WPF` · `Flutter` · `FastAPI` · `Chrome Extensions`
+
+### Infrastructure
+
+`Linux` · `Docker` · `Nginx` · `Git` · `CI/CD`
+
+### Engineering
+
+- Software architecture
+- Automated testing
+- Secure application design
+- Developer tooling
+
+
+---
+
+## 🌱 Currently Improving
+
+- Backend architecture and scalable application design
+- Modern C#/.NET development
+- Python automation systems
+- Mobile application development
+- Linux server administration
+- Testing strategies and CI/CD
+
+
+---
+
+## 📫 Contact
+
+Telegram:
+https://t.me/Mammad3861
+
+GitHub:
+https://github.com/Mammad3861
+
+
+---
+
+## 💡 About My Approach
+
+I learn by building.
+
+Most of my projects start from a practical problem and evolve through research, implementation, testing, and continuous improvement.
+
+I enjoy creating software that is useful, maintainable, and solves real-world problems.
