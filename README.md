@@ -40,29 +40,6 @@ Repository:
 
 ---
 
-### 📱 BMI Professional
-
-An offline-first mobile application designed for school health workflows.
-
-The goal is to simplify student measurements, BMI calculation, growth evaluation, and health reporting.
-
-Features:
-
-- WHO 2007 BMI-for-age evaluation
-- Age and gender based calculation
-- Student records
-- Offline data storage
-- Reporting workflow
-
-**Tech:**
-
-`Flutter` · `Dart` · `SQLite`
-
-**Status:**
-
-Active Development
-
----
 
 ### 🌐 BidiFix AI
 
