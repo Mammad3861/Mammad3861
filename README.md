@@ -88,26 +88,6 @@ Repository:
 
 ---
 
-### 📊 Iran Bourse NAV Extension
-
-A browser extension for estimating NAV and P/NAV values of Iranian investment companies.
-
-Features:
-
-- Local calculations
-- Persian RTL interface
-- TSETMC/Codal workflow support
-
-**Tech:**
-
-`TypeScript` · `Vite` · `Chrome Extension`
-
-Repository:
-
-[Iran Bourse NAV Extension](https://github.com/Mammad3861/iran-bourse-nav-extension)
-
----
-
 ### 🐧 Instant Linux Browser
 
 A Bash-based deployment tool for quickly installing browser environments on Linux servers.
